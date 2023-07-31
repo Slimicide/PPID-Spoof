@@ -27,5 +27,7 @@ ppid-spoof.exe \<PID\> \<EXE\>
 
 # References
 [ired.team](https://www.ired.team/offensive-security/defense-evasion/parent-process-id-ppid-spoofing)
+
 [TrustedSec](https://www.trustedsec.com/blog/ppid-spoofing-its-really-this-easy-to-fake-your-parent/)
+
 [Elastic](https://www.elastic.co/guide/en/security/current/unusual-parent-child-relationship.html)
